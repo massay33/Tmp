@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Игра Крестики-нолики на Node.js с веб-интерфейсом",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "console": "node tic-tac-toe.js"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
